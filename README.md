@@ -39,6 +39,7 @@ This will start the following services:
 
 #### Backend Tests
 
+Add all necessary env variables in `.env` file inside backend directory ( refer `.env.example`)
 To run backend tests, execute the following command:
 
 ```sh
